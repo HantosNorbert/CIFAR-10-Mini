@@ -1,0 +1,2 @@
+model_checkpoint_path: "VGG_8_advanced_lr0.0001_adam_do_wd"
+all_model_checkpoint_paths: "VGG_8_advanced_lr0.0001_adam_do_wd"
